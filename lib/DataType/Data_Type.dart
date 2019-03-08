@@ -9,4 +9,5 @@ class Articles {
       : url = jsonMap['url'],
         title = jsonMap['title'],
         urlToImage = jsonMap['urlToImage'];
+
 }
